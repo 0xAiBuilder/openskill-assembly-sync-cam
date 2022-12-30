@@ -1,2 +1,1 @@
-tutorial
-https://www.youtube.com/watch?v=djMy4QsPWiI
+backend for sync cam
